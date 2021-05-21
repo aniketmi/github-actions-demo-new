@@ -3,7 +3,6 @@ name: Node Continuous Integration
 on:
   pull_request:
     branches: [ master ]
-// does this work?
 
 jobs:
   test_pull_request:
